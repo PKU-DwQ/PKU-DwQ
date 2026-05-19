@@ -8,4 +8,4 @@ I am interested in machine learning systems, efficient inference.
 
 ## Contact
 - Email: wenqideng@stu.pku.edu.cn
-- Homepage: https://PKU-DwQ.github.io
+- Homepage: https://wenqi-deng.github.io
